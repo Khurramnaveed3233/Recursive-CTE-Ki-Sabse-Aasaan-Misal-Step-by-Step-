@@ -25,17 +25,17 @@ Asaan Example: Ginti 1 Se 10 Tak
 
 Isko Step by Step Dekhein (Recursion Execution)
 
-    Step	num
-    1st  	1
-    2nd	    2
-    3rd	    3
-    4th	    4
-    5th  	5
-    6th	    6
-    7th	    7
-    8th 	8
-    9th  	9
-    10th	10
+    Step	   num
+    1st     	1
+    2nd	        2
+    3rd	        3
+    4th	        4
+    5th  	    5
+    6th	        6
+    7th	        7
+    8th 	    8
+    9th  	    9
+    10th	   10
 
 👉 Jese hi num = 10 hota hai, recursion ruk jata hai! ✅
 
