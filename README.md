@@ -66,10 +66,10 @@ Aur unke bete ka naam "Danish"
     SELECT * FROM FamilyTree;
 
     Name	Generation
-    Ali	     1
-    Ahmed	 2
-    Bilal	 3
-    Danish   4
+    Ali       1
+    Ahmed     2
+    Bilal	  3
+    Danish    4
     
 Yahi Recursive CTE ka concept hai! 🎯
 
