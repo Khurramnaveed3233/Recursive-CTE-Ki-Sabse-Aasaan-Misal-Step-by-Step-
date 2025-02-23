@@ -69,8 +69,11 @@ Yahi Recursive CTE ka concept hai! 🎯
 📌 Future Reference Ke Liye Summary
 
 ✅ Recursive CTE ek loop ki tarah kaam karta hai
+
 ✅ Har baar pichla result use karke agla step generate hota hai
+
 ✅ Jab stopping condition milti hai to process ruk jata hai
+
 ✅ Best for hierarchical data (family tree, categories, numbers, etc.)
 
 Agar phir bhi koi confusion hai, to batao, aur bhi asaan misal se samjha sakta hoon! 😊
