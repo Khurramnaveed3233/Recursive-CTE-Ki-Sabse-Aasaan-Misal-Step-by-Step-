@@ -65,6 +65,8 @@ Aur unke bete ka naam "Danish"
     
     SELECT * FROM FamilyTree;
 
+Output : 
+
     Name	Generation
     Ali       1
     Ahmed     2
