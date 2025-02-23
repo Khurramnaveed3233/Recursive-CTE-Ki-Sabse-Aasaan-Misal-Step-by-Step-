@@ -13,12 +13,15 @@ Asaan Example: Ginti 1 Se 10 Tak
     -- Pehla number (Base Case)
     SELECT 1 AS num  
     UNION ALL  
+    
     -- Agla number add karo (Recursive Case)
+    
     SELECT num + 1  
     FROM Counting  
     WHERE num < 10  -- Jab tak 10 na aa jaye, chalta rahe
     )
-   SELECT * FROM Counting;
+    
+    SELECT * FROM Counting;
 
 
 
